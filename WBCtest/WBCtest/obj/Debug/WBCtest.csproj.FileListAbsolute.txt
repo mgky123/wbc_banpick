@@ -1,9 +1,0 @@
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\bin\Debug\WBCtest.exe.config
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\bin\Debug\WBCtest.exe
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\bin\Debug\WBCtest.pdb
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\obj\Debug\WBCtest.Form1.resources
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\obj\Debug\WBCtest.Form2.resources
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\obj\Debug\WBCtest.Properties.Resources.resources
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\obj\Debug\WBCtest.csproj.GenerateResource.Cache
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\obj\Debug\WBCtest.exe
-C:\Users\KGH\Desktop\개발\dotnet\WBCtest\WBCtest\obj\Debug\WBCtest.pdb
